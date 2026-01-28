@@ -34,5 +34,6 @@ class Mat{
             }
             System.out.println();
         }
+        s.close();
     }
 }
